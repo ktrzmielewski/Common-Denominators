@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\pc\source\repos\Project5\Project5\Źródło.cpp(17,16): warning C4244: "return": konwersja z "__int64" do "int", możliwa utrata danych
+  Project5.vcxproj -> C:\Users\pc\source\repos\Project5\Debug\Project5.exe
